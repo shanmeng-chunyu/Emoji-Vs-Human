@@ -1,0 +1,99 @@
+<RCC>
+    <qresource prefix="/Emoji">
+        <file>resource/EmojiPNG/Emoji1.png</file>
+        <file>resource/EmojiPNG/Emoji2.png</file>
+        <file>resource/EmojiPNG/Emoji3.png</file>
+        <file>resource/EmojiPNG/Emoji4.png</file>
+        <file>resource/EmojiPNG/Emoji5.png</file>
+        <file>resource/EmojiPNG/Emoji6.png</file>
+        <file>resource/EmojiPNG/Emoji7.png</file>
+        <file>resource/EmojiGIF/Emoji1.gif</file>
+        <file>resource/EmojiGIF/Emoji2.gif</file>
+        <file>resource/EmojiGIF/Emoji3.gif</file>
+        <file>resource/EmojiGIF/Emoji4.gif</file>
+        <file>resource/EmojiGIF/Emoji5.gif</file>
+        <file>resource/EmojiGIF/Emoji6.gif</file>
+        <file>resource/EmojiGIF/Emoji7.gif</file>
+    </qresource>
+    <qresource prefix="/Enemy">
+        <file>resource/EnemyPNG/1Boy.png</file>
+        <file>resource/EnemyPNG/1Father.png</file>
+        <file>resource/EnemyPNG/1Grandpa.png</file>
+        <file>resource/EnemyPNG/1Oldman.png</file>
+        <file>resource/EnemyPNG/1Onepunch.png</file>
+        <file>resource/EnemyPNG/2Boy.png</file>
+        <file>resource/EnemyPNG/2Father.png</file>
+        <file>resource/EnemyPNG/2Grandpa.png</file>
+        <file>resource/EnemyPNG/2Oldman.png</file>
+        <file>resource/EnemyPNG/2Onepunch.png</file>
+        <file>resource/EnemyPNG/3Boy.png</file>
+        <file>resource/EnemyPNG/3Father.png</file>
+        <file>resource/EnemyPNG/3Grandpa.png</file>
+        <file>resource/EnemyPNG/3Oldman.png</file>
+        <file>resource/EnemyPNG/3Onepunch.png</file>
+        <file>resource/EnemyPNG/4Boy.png</file>
+        <file>resource/EnemyPNG/4Father.png</file>
+        <file>resource/EnemyPNG/4Grandpa.png</file>
+        <file>resource/EnemyPNG/4Oldman.png</file>
+        <file>resource/EnemyPNG/4Onepunch.png</file>
+        <file>resource/EnemyPNG/5Boy.png</file>
+        <file>resource/EnemyPNG/5Father.png</file>
+        <file>resource/EnemyPNG/5Grandpa.png</file>
+        <file>resource/EnemyPNG/5Oldman.png</file>
+        <file>resource/EnemyPNG/5Onepunch.png</file>
+    </qresource>
+    <qresource prefix="/Bullet">
+        <file>resource/BulletPNG/Drew.png</file>
+        <file>resource/BulletPNG/Blood.png</file>
+        <file>resource/BulletPNG/Fire.png</file>
+        <file>resource/BulletPNG/Heart.png</file>
+        <file>resource/BulletPNG/Snow.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>resource/maps/map.png</file>
+    </qresource>
+    <qresource prefix="/others">
+        <file>resource/others/card.png</file>
+        <file>resource/others/carpet.png</file>
+        <file>resource/others/inventory.png</file>
+        <file>resource/others/Money.png</file>
+        <file>resource/others/shovel.png</file>
+        <file>resource/others/Star.png</file>
+        <file>resource/others/StartButton.png</file>
+        <file>resource/others/SelectBoard.png</file>
+        <file>resource/others/Brick.png</file>
+        <file>resource/others/NotPlant.png</file>
+        <file>resource/others/Coin.png</file>
+        <file>resource/others/StartWindowBackground.png</file>
+    </qresource>
+    <qresource prefix="/Props">
+        <file>resource/PropPNG/Rocket.png</file>
+        <file>resource/PropPNG/Suger.png</file>
+    </qresource>
+    <qresource prefix="/Card">
+        <file>resource/CardPNG/Cold.png</file>
+        <file>resource/CardPNG/Hot.png</file>
+        <file>resource/CardPNG/Laugh.png</file>
+        <file>resource/CardPNG/Love.png</file>
+        <file>resource/CardPNG/Stars.png</file>
+        <file>resource/CardPNG/Sweat.png</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>resource/Music/awooga.ogg</file>
+        <file>resource/Music/bleep.ogg</file>
+        <file>resource/Music/buttonclick.ogg</file>
+        <file>resource/Music/chomp.ogg</file>
+        <file>resource/Music/groan.ogg</file>
+        <file>resource/Music/kernelpult.ogg</file>
+        <file>resource/Music/KitanaiSekai.ogg</file>
+        <file>resource/Music/losemusic.ogg</file>
+        <file>resource/Music/mainmusic.mo3.2.ogg</file>
+        <file>resource/Music/mainmusic.ogg</file>
+        <file>resource/Music/moneyfalls.ogg</file>
+        <file>resource/Music/pause.ogg</file>
+        <file>resource/Music/plant.ogg</file>
+        <file>resource/Music/shovel.ogg</file>
+        <file>resource/Music/tap.ogg</file>
+        <file>resource/Music/winmusic.ogg</file>
+    </qresource>
+</RCC>
